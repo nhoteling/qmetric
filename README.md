@@ -1,2 +1,2 @@
 # qmetric
-anomaly detection methods
+Pattern of life anomaly detection
